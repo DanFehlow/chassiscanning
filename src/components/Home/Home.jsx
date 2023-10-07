@@ -37,7 +37,7 @@ function Home() {
           podendo beneficiar também todas as auditorias/consultorias que possuem
           em sua carteira de clientes as montadoras associadas e que utilizam as
           cartas da Anfavea como evidência externa para realização de testes de
-          detalhe.
+          detalhe..
           <br></br>
           <br></br>
           Essa aplicação possui 3 steps (Tratamento, Consolidação e Análise):
