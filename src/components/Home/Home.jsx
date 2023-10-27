@@ -22,7 +22,7 @@ function Home() {
             color: "#870382",
           }}
         >
-          Chassi Scanning
+          Chassi Scanning Testando
         </h2>
         <Typography
           sx={{
